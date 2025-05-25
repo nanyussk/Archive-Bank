@@ -2516,16 +2516,10 @@ aburrao
 aburrar
 aburrinhar
 aburu
-abusado
-abusador
-abusadora
 abusao
-abusar
 abusear
 abusinhao
 abusivo
-abuso
-abusos
 abuta
 abutardado
 abuter
@@ -55127,7 +55121,6 @@ cagacal
 cagacao
 cagachim
 cagaco
-cagada
 cagadeira
 cagadela
 cagadense
@@ -55166,7 +55159,6 @@ caganita
 caganito
 cagao
 cagaprati
-cagar
 cagareu
 cagarim
 cagarinheiro
@@ -101724,7 +101716,6 @@ diarizacao
 diarizar
 diarquia
 diarquico
-diarreia
 diarreico
 diarremia
 diarremico
@@ -131507,7 +131498,6 @@ estrumose
 estrumosidade
 estrumoso
 estrunfa
-estrupada
 estrupicento
 estrupicio
 estrupida
@@ -218933,8 +218923,6 @@ nazirato
 nazireado
 nazireato
 nazireu
-nazismo
-nazista
 nazistico
 nazoreu
 nazoreus
@@ -241398,7 +241386,6 @@ peniposte
 penipotente
 peniqueira
 penirolol
-penis
 peniscar
 penisco
 penisqueiro
