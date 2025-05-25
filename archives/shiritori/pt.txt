@@ -154050,13 +154050,9 @@ goxo
 goyaz
 goytacazes
 gozacao
-gozada
 gozadela
-gozado
-gozador
 gozantemente
 gozao
-gozar
 gozaria
 gozavel
 gozeira
@@ -224030,7 +224026,6 @@ nudacao
 nudamente
 nudaria
 nudeos
-nudez
 nudeza
 nudibranchio
 nudibranquiado
@@ -224045,7 +224040,7 @@ nudipedais
 nudipedalias
 nudipede
 nudipilifero
-nudismo
+
 nudissexo
 nudista
 nudistico
@@ -257539,14 +257534,10 @@ prostiostomideo
 prostiostomo
 prostipo
 prostirido
-prostituicao
 prostituido
 prostituidor
 prostituidora
-prostituir
 prostituivel
-prostituta
-prostituto
 prostomiado
 prostomida
 prostomideo
@@ -260522,7 +260513,6 @@ putanato
 putanga
 putangas
 putanheiro
-putas
 putativamente
 putativo
 putaua
@@ -305688,7 +305678,6 @@ tranquinino
 tranquininos
 tranquitana
 tranquito
-transa
 transaariano
 transabdominal
 transacao
@@ -305716,7 +305705,6 @@ transaminasemico
 transaminavel
 transandino
 transanimado
-transar
 transaraliano
 transariano
 transarmonico
@@ -315666,10 +315654,8 @@ vagido
 vagieno
 vagiforme
 vagil
-vagina
 vaginabdominal
 vaginado
-vaginal
 vaginalectomia
 vaginalectomico
 vaginalis
