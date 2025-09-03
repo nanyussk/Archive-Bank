@@ -1,0 +1,25 @@
+{
+  "name": "files-bank",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nanyussk/Files-Bank#readme",
+  "bugs": {
+    "url": "https://github.com/nanyussk/Files-Bank/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanyussk/Files-Bank.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^5.5.0",
+    "mime-types": "^3.0.1"
+  }
+}
