@@ -26,7 +26,7 @@ const listDirectory = async (reply, req, dirPath, relPath) => {
         const stat = await fs.stat(filePath);
         const fileUrlPath = path.join(relPath, dirent.name).replace(/\\/g, '/');
         return {
-          name: dirent.name,
+          filename: dirent.name,
           size: stat.size,
           mimeType: mime.lookup(dirent.name) || null,
           url: `${baseUrl}/${fileUrlPath}`,
