@@ -15,7 +15,7 @@ const serverFile = async (reply, filePath) => {
 };
 
 const listDirectory = async (reply, req, dirPath, relPath) => {
-  const baseUrl = `${req.protocol}://${req.hostname}/archives`;
+  const baseUrl = `${req.protocol}://${req.hostname}/files`;
 
   const dirents = await fs.readdir(dirPath, { withFileTypes: true });
   const files = await Promise.all(
